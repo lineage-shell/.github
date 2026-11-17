@@ -7,9 +7,7 @@
 
 **The consoles you grew up with, the way you remember them.**
 
-Hi, I'm kurolume :wave: I grew up on the PS1 and PS2. I've got a family of my own now, and after years of min-maxing life I'm learning to slow down and enjoy things. This project came out of that: the menus and ethos I remember, kept faithful, with just enough added to show off a library and dive back into the good times.
-
-So welcome to **Lineage**, my attempt at a faithful interface for emulators. Switch it on and you get the console's own start-up, menus, memory cards and sounds, rebuilt screen by screen. Nothing of Sony's is included: the artwork, fonts and sounds are read from your own BIOS.
+Welcome to **Lineage**, my attempt at a faithful interface for emulators. Switch it on and you get the console's own start-up, menus, memory cards and sounds, rebuilt screen by screen. Nothing of Sony's is included: the artwork, fonts and sounds are read from your own BIOS.
 
 ## What's out
 
