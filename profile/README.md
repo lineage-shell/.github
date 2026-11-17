@@ -10,11 +10,11 @@
 Hi, I'm kurolume :wave: Welcome to **Lineage**, my attempt at a faithful interface for emulators. Switch it on and you get the console's own start-up, menus, memory cards and sounds, rebuilt screen by screen. Nothing of Sony's is included: the artwork, fonts and sounds are read from your own BIOS.
 
 <table><tr>
-<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps2-for-ps5/main/docs/screenshots/01-opening.jpg" width="100%" alt="Lineage PS2: the opening"><br><sub>PS2: the opening</sub></td>
-<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps2-for-ps5/main/docs/screenshots/05-library.jpg?v=2" width="100%" alt="Lineage PS2: Library"><br><sub>PS2: Library</sub></td>
+<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps2-for-ps5/main/docs/screenshots/01-opening.jpg?v=3" width="100%" alt="Lineage PS2: the opening"><br><sub>PS2: the opening</sub></td>
+<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps2-for-ps5/main/docs/screenshots/05-library.jpg?v=3" width="100%" alt="Lineage PS2: Library"><br><sub>PS2: Library</sub></td>
 </tr><tr>
-<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps1-for-ps5/main/docs/screenshots/03-main-menu.jpg" width="100%" alt="Lineage PS1: main menu"><br><sub>PS1: main menu</sub></td>
-<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps1-for-ps5/main/docs/screenshots/04-library.jpg" width="100%" alt="Lineage PS1: Game Library"><br><sub>PS1: Game Library</sub></td>
+<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps1-for-ps5/main/docs/screenshots/03-main-menu.jpg?v=3" width="100%" alt="Lineage PS1: main menu"><br><sub>PS1: main menu</sub></td>
+<td><img src="https://raw.githubusercontent.com/lineage-shell/lineage-ps1-for-ps5/main/docs/screenshots/04-library.jpg?v=3" width="100%" alt="Lineage PS1: Game Library"><br><sub>PS1: Game Library</sub></td>
 </tr></table>
 
 ## What's out
